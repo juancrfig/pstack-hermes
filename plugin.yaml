@@ -1,0 +1,6 @@
+name: pstack
+version: "0.15.30"
+description: "pstack by Lauren Tan (cursor/plugins), copied byte for byte and mapped to Hermes tool names."
+author: "juancrfig (adapter); Lauren Tan (pstack)"
+provides_hooks:
+  - pre_llm_call
